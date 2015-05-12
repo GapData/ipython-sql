@@ -119,3 +119,7 @@ result sets
 * Indentations visible in HTML cells
 * COMMIT each SQL statement immediately - prevent locks
 
+0.3.5b
+------
+
+* Retract auto COMMIT due to compatibility issues with sqllite and Impala (& others?)
