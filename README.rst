@@ -9,6 +9,10 @@ Introduces a %sql (or %%sql) magic.
 Connect to a database, using SQLAlchemy connect strings, then issue SQL
 commands within IPython or IPython Notebook.
 
+Install direct from github using::
+
+   pip install git+git://github.com/cfperez/ipython-sql#egg=ipython-sql
+
 .. image:: https://raw.github.com/catherinedevlin/ipython-sql/master/examples/writers.png
    :width: 600px
    :alt: screenshot of ipython-sql in the Notebook
